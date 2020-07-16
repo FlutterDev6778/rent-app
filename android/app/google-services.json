@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "959042555986",
+    "firebase_url": "https://rent-israel.firebaseio.com",
+    "project_id": "rent-israel",
+    "storage_bucket": "rent-israel.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:959042555986:android:b2c46f8e8e0758134e8f8b",
+        "android_client_info": {
+          "package_name": "com.example.rental"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "959042555986-to5u1qq7aqs8q73f4kv8e8dcjno01sg4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rental",
+            "certificate_hash": "1ec4cd4810fcf2398aecac75b2dd13c131eb8ca5"
+          }
+        },
+        {
+          "client_id": "959042555986-cr66lr5fnkj83akseeup75n424f9skco.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqjdd6L2EjFN_4ff-IFsuF7eMkPB3n2j0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "959042555986-cr66lr5fnkj83akseeup75n424f9skco.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

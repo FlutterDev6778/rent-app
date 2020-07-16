@@ -1,0 +1,162 @@
+{
+    "ValidateString": {
+        "emailErrorText": "Please enter correct email",
+        "passwordMatchErrorText": "Not Match Password",
+        "textlengthErrorText": "Please enter {length} charaters at least",
+        "dropdownItemErrorText": "Please choose item"
+    },
+    "WelcomePage": {
+        "title": "Jini",
+        "description1": "מצא הצעה מושלמת בפחות משתי דקות.",
+        "description2": "כל מה שצריך, זה להגיד לג’יני מה אתם מחפשים וסוכן יחזור אליכם עם הצעה מושלמת 😇",
+        "startButtonText": "התחל",
+        "agentLoginButtonText": "כניסת סוכנים"
+    },
+    "LoginForAgentPage": {
+        "welcomeTitle": "ברוכים הבאים.",
+        "welcomeDescription": "כאן תוכלו לנהל ולעקוב אחר כל הלידים שלכם!",
+        "emailHintText": "דואר אלקטרוני",
+        "passwordHintText": "סיסמה",
+        "agentTitle": "אני סוכן",
+        "agentForCar": "רכב",
+        "agentForHouse": "נדל”ן",
+        "loginButtonText": "התחברות",
+        "signupLink": "עדיין לא נרשמתם? הרשמו כאן",
+        "selectCategoryErrorString": "Please choose category",
+        "loginFailedString": "Login Failed. Please try it",
+        "noExistUserString": "No exist or deleted user. Please sign up",
+        "approvedErrorString": "You was't yet approved from. Please wait"
+    },
+    "SignupForAgentPage": {
+        "title": "להרשמה כסוכן, הזן פרטים",
+        "agentNameForCarLabel": "שם סוכנות",
+        "agentNameForHouseLabel": "שם מלא \\ שם חברה",
+        "emailLabel": "דואר אלקטרוני",
+        "phoneLabel": "טלפון",
+        "passwordLabel": "סיסמה",
+        "confirmPasswordLabel": "אימות סיסמה",
+        "addressLabel": "כתובת",
+        "cityLabel": "עיר פעילות",
+        "numOfCars": "מספר רכבים זמינים למכירה",
+        "isRentProportiesLabel": "האם ברשותך נכסים להשכרה?",
+        "isEstateAgent": "האם אתה סוכן נדל”ן?",
+        "yesLabel": "כן",
+        "noLabel": "לא",
+        "signupButtonText": "להרשמה",
+        "loginLink": "Do you have accont? Login here",
+        "signupFailString": "Failed signup. Please try it"
+    },
+    "SignupFinalPage": {
+        "title": "מזל טוב! נשלח לך אישור הרשמה ב48 שעות הקרובות.",
+        "finishButtonText": "סיום"
+    },
+    "LookingForPage": {
+        "headerText": "מה אתה מחפשת?",
+        "houseLabel": "דירה להשכרה",
+        "carLabel": "רכב",
+        "nextStepButtonText": "לשלב הבא"
+    },
+    "LookingForHouseDetail1Page": {
+        "headerText": "איזו דירה אתה מחפשת?",
+        "cityLabel": "עיר",
+        "cityHintText": "Choose a city",
+        "priceLabel": "טווח מחירים",
+        "priceUnit": "₪",
+        "roomsLabel": "חדרים",
+        "nextStepButtonText": "לשלב הבא"
+    },
+    "LookingForCarDetail1Page": {
+        "headerText": "איזה רכב אתה מחפשת?",
+        "producerLabel": "יצרן",
+        "producerHintText": "Choose a יצרן",
+        "modelLabel": "דגם",
+        "modelHintText": "Choose a דגם",
+        "yearLabel": "שנה",
+        "priceLabel": "מחיר",
+        "priceUnit": "₪",
+        "nextStepButtonText": "לשלב הבא"
+    },
+    "LookingForCarDetail2Page": {
+        "headerText": "פרטים נוספים",
+        "hearderDescription": "מילוי הפרטים בעמוד זה הוא לא חובה.",
+        "colorLabel": "צבע",
+        "colorHintText": "Choose a צבע",
+        "kilometerLabel": "קילומטרז’ עד",
+        "handLabel": "יד",
+        "GearLabel": "הילוכים",
+        "autoLabel": "אוטומטי",
+        "notesLabel": "הערות",
+        "notesHintText": "דוגמה : מחפש דירה קרובה לפארק עם גישה לנכים וסופר במרחק הליכה",
+        "finishButtonText": "סיום"
+    },
+    "LookingForHouseDetail2Page": {
+        "headerText": "מהם פרטי הדירה?",
+        "hearderDescription": "מילוי הפרטים בעמוד זה הוא לא חובה.",
+        "propertyLabel": "סוג נכס",
+        "propertyHintText": "Choose a סוג נכס",
+        "sizeLabel": "גודל במ”ר",
+        "renovatedLabel": "משופצת",
+        "yardLabel": "מרפסת גינה",
+        "parkingLotLabel": "חניה",
+        "petsAllowedLabel": "חיות מחמד",
+        "notesLabel": "טקסט חופשי",
+        "notesHintText": "דוגמה : מחפש דירה קרובה לפארק עם גישה לנכים וסופר במרחק הליכה",
+        "finishButtonText": "סיום"
+    },
+    "SendCustomerInfoPage": {
+        "titleText": "כל מה שנותר זה למלא פרטים ויחזרו אלייך בהקדם עם הצעה רלוונטית.",
+        "descriptionLabel": "בג’יני אנחנו משתמשים בדרכים מתקדמות למניעת ספאם ויפנו אלייך רק עם הצעות רלוונטיות.",
+        "nameLabel": "שם מלא",
+        "nameHintText": "שם מלא",
+        "phoneLabel": "מספר טלפון",
+        "phoneHintText": "מספר טלפון",
+        "sendButtonText": "שליחה"
+    },
+    "AgentMainPage": {
+        "appbarText": "איזור אישי",
+        "exitAppbarIconText": "יציאה",
+        "tab1Text": "לקוחות",
+        "tab2Text": "הצעות"
+    },
+    "HouseItemWidget": {
+        "title": "דירה {roomTo}-{roomFrom} חדרים",
+        "priceText": "₪{priceFrom}-₪{priceTo}",
+        "revealText": "6 חשיפות מספר"
+    },
+    "CarItemWidget": {
+        "kilometerText": "עד {kilometer} קמ’",
+        "priceText": "₪{priceFrom}-₪{priceTo}",
+        "yearText": "משנה {yearFrom} עד שנה {yearTo}",
+        "revealText": "6 חשיפות מספר"
+    },
+    "HouseOfferDetailPage": {
+        "title": "דירה {roomTo}-{roomFrom} חדרים",
+        "priceLabel": "טווח מחיר",
+        "priceText": "{priceFrom}₪-{priceTo}₪",
+        "roomsLabel": "חדרים",
+        "roomsText": "{roomFrom} - {roomTo}",
+        "propertyLabel": "סוג נכס",
+        "sizeLabel": "גודל במ”ר",
+        "sizeText": "{sizeFrom} - {sizeTo}",
+        "renovatedLabel": "משופצת",
+        "parkingLotLabel": "חניה",
+        "yardLabel": "מרפסת \\ גינה",
+        "petsLabel": "חיות מחמד",
+        "notesLabel": "טקסט חופשי",
+        "revealText": "להצעה זו כבר היו 6 חשיפות מספר",
+        "revealButtonText": "לחשיפת שם ומספר"
+    },
+    "CarOfferDetailPage": {
+        "kilometerText": "עד {kilometer} קמ’",
+        "priceLabel": "טווח מחיר",
+        "priceText": "₪{priceFrom}-₪{priceTo}",
+        "handLabel": "יד",
+        "handText": "{handFrom} - {handTo}",
+        "colorLabel": "צבע",
+        "gearLabel": "הילוכים",
+        "autoLotLabel": "אוטומטי",
+        "notesLabel": "טקסט חופשי",
+        "revealText": "להצעה זו כבר היו 6 חשיפות מספר",
+        "revealButtonText": "לחשיפת שם ומספר"
+    }
+}

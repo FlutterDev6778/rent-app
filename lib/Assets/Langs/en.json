@@ -1,0 +1,166 @@
+{
+    "ValidateString": {
+        "emailErrorText": "Please enter correct email",
+        "passwordMatchErrorText": "Not Match Password",
+        "textlengthErrorText": "Please enter {length} charaters at least",
+        "dropdownItemErrorText": "Please choose item"
+    },
+    "WelcomePage": {
+        "title": "Whoas",
+        "description1": "Find a perfect offer in less than two minutes.",
+        "description2": "All you need to do is tell Ginny what you are looking for and an agent will come back to you with a perfect offer 😇",
+        "startButtonText": "Start",
+        "agentLoginButtonText": "Agent login"
+    },
+    "LoginForAgentPage": {
+        "welcomeTitle": "Welcome",
+        "welcomeDescription": "Here you can follow your leads",
+        "emailHintText": "Email",
+        "passwordHintText": "Password",
+        "agentTitle": "I am agent of",
+        "agentForCar": "Car",
+        "agentForHouse": "House",
+        "loginButtonText": "Login",
+        "signupLink": "Not sign up yet? Sign up here",
+        "selectCategoryErrorString": "Please choose category",
+        "loginFailedString": "Login Failed. Please try it",
+        "noExistUserString": "No exist or deleted user. Please sign up",
+        "approvedErrorString": "You was't yet approved from. Please wait"
+    },
+    "SignupForAgentPage": {
+        "title": "To sign up, fill this form",
+        "agentNameForHouseLabel": "Full name \\ Company name",
+        "agentNameForCarLabel": "Agency name",
+        "agentNameLabel": "Agency name",
+        "emailLabel": "Email",
+        "phoneLabel": "Phone",
+        "passwordLabel": "Password",
+        "confirmPasswordLabel": "Confirm Password",
+        "addressLabel": "Address",
+        "numOfCars": "number of available cars",
+        "cityLabel": "city you work at",
+        "isRentProportiesLabel": "Do you rent properties?",
+        "isEstateAgent": "Are you a real estate agent?",
+        "yesLabel": "Yes",
+        "noLabel": "No",
+        "signupButtonText": "Signup",
+        "loginLink": "Do you have accont? Login here",
+        "signupFailString": "Failed signup. Please try it"
+    },
+    "SignupFinalPage": {
+        "title": "You did it, we will notify you in the next 48 hours",
+        "finishButtonText": "Finish"
+    },
+    "LookingForPage": {
+        "headerText": "what are you looking for?",
+        "houseLabel": "House",
+        "carLabel": "Car",
+        "nextStepButtonText": "Next Step"
+    },
+    "LookingForHouseDetail1Page": {
+        "headerText": "What house you need?",
+        "cityLabel": "City",
+        "cityHintText": "Choose a city",
+        "priceLabel": "Price",
+        "priceUnit": "₪",
+        "roomsLabel": "Rooms",
+        "nextStepButtonText": "Next Step"
+    },
+    "LookingForCarDetail1Page": {
+        "headerText": "Which car you look for?",
+        "producerLabel": "Producer",
+        "producerHintText": "Choose a producer",
+        "modelLabel": "Model",
+        "modelHintText": "Choose a model",
+        "yearLabel": "Year",
+        "priceLabel": "Price",
+        "priceUnit": "₪",
+        "nextStepButtonText": "Next Step"
+    },
+    "LookingForCarDetail2Page": {
+        "headerText": "Additional details",
+        "hearderDescription": "Filling info in this page is not mandatory",
+        "colorLabel": "Color",
+        "colorHintText": "Choose a color",
+        "kilometerLabel": "Kilometer",
+        "handLabel": "Hand",
+        "GearLabel": "Gear",
+        "autoLabel": "Auto",
+        "notesLabel": "Notes",
+        "notesHintText": "Example : looking for an car which is also next to a market.",
+        "finishButtonText": "Finish"
+    },
+    "LookingForHouseDetail2Page": {
+        "headerText": "house details?",
+        "hearderDescription": "In this page you don’t have to fill information",
+        "propertyLabel": "Property type",
+        "propertyHintText": "Choose a property",
+        "sizeLabel": "Size in meter",
+        "renovatedLabel": "Renovated",
+        "yardLabel": "Yard",
+        "parkingLotLabel": "Parking lot",
+        "petsAllowedLabel": "Pets allowed",
+        "notesLabel": "Free text",
+        "notesHintText": "Example : looking for an apartment near the Beach which is also next to a market.",
+        "finishButtonText": "Finish"
+    },
+    "SendCustomerInfoPage": {
+        "titleText": "Just add details and get an offer",
+        "descriptionLabel": "Here we prevent spam so don’t worry",
+        "nameLabel": "Full Name",
+        "nameHintText": "Full Name",
+        "phoneLabel": "Phone",
+        "phoneHintText": "Phone",
+        "sendButtonText": "Send",
+        "errorString": "Failed. Please Try it"
+    },
+    "AgentMainPage": {
+        "appbarText": "Personal Area",
+        "exitAppbarIconText": "exit",
+        "tab1Text": "Costumers",
+        "tab2Text": "offers"
+    },
+    "HouseItemWidget": {
+        "title": "{roomsFrom}-{roomsTo} Rooms apartment",
+        "priceText": "{priceFrom}₪-{priceTo}₪",
+        "revealText": "{} phone number reveal"
+    },
+    "CarItemWidget": {
+        "kilometerText": "Up to {kilometer} kilometer",
+        "priceText": "{priceFrom}₪-{priceTo}₪",
+        "yearText": "From year {yearFrom} up to {yearTo}",
+        "revealText": "{} phone number reveal"
+    },
+    "HouseOfferDetailPage": {
+        "title": "{roomsFrom}-{roomsTo} Rooms apartment",
+        "priceLabel": "price",
+        "priceText": "{priceFrom}₪-{priceTo}₪",
+        "roomsLabel": "Rooms",
+        "roomsText": "{roomsFrom} - {roomsTo}",
+        "propertyLabel": "property type",
+        "sizeLabel": "Size in mr",
+        "sizeText": "{sizeFrom} - {sizeTo}",
+        "renovatedLabel": "Renovated",
+        "parkingLotLabel": "Parking lot",
+        "yardLabel": "Yard",
+        "petsLabel": "Pets",
+        "notesLabel": "Notes",
+        "revealText": "This offer had {} number reveal",
+        "revealTextForConnectedOffer": "This number was reviled {} times",
+        "revealButtonText": "to reveal name and number"
+    },
+    "CarOfferDetailPage": {
+        "kilometerText": "Up to {kilometer} kilometer",
+        "priceLabel": "price",
+        "priceText": "{priceFrom}₪-{priceTo}₪",
+        "handLabel": "hand",
+        "handText": "{handFrom} - {handTo}",
+        "colorLabel": "Color",
+        "gearLabel": "Gear",
+        "autoLotLabel": "Auto",
+        "notesLabel": "Notes",
+        "revealText": "This offer had {} number reveal",
+        "revealTextForConnectedOffer": "This number was reviled {} times",
+        "revealButtonText": "to reveal name and number"
+    }
+}
